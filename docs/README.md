@@ -2,7 +2,7 @@
 
 Componente customizado el cual crea una barra de busqueda customizada y un selector de busqueda por departamentos. 
 
-![Media Placeholder](https://user-images.githubusercontent.com/52087100/71204177-42ca4f80-227e-11ea-89e6-e92e65370c69.png) ~Agregar imagen de componente quick order ~
+![departmentSearch](https://user-images.githubusercontent.com/73150391/196803741-a190ec8b-7fb3-4371-9c91-f5ec8d91b8f3.PNG)
 
 ## Configuración 
 
